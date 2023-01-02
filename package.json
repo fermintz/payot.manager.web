@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxtjs/google-fonts": "^2.0.0",
+    "nuxt": "3.0.0"
+  },
+  "dependencies": {
+    "@vueuse/nuxt": "^9.9.0",
+    "chartjs-plugin-datalabels": "^2.2.0",
+    "dayjs": "^1.11.7",
+    "element-plus": "^2.2.27",
+    "sass": "^1.57.1",
+    "vuedraggable": "^4.1.0"
+  }
+}
