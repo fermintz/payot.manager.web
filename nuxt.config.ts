@@ -4,7 +4,7 @@ export default defineNuxtConfig({
     "~/assets/styles/default.scss"
   ],
   build:{
-    transpile:['chart.js','vue-chartjs']
+    transpile:['chart.js']
   },
   modules:[
     '@vueuse/nuxt',

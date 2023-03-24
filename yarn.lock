@@ -1255,17 +1255,12 @@
   "resolved" "https://registry.npmjs.org/chardet/-/chardet-0.7.0.tgz"
   "version" "0.7.0"
 
-"chart.js@>=3.0.0":
+"chart.js@^4.1.1":
   "integrity" "sha512-P0pCosNXp+LR8zO/QTkZKT6Hb7p0DPFtypEeVOf+6x06hX13NIb75R0DXUA4Ksx/+48chDQKtCCmRCviQRTqsA=="
   "resolved" "https://registry.npmjs.org/chart.js/-/chart.js-4.1.1.tgz"
   "version" "4.1.1"
   dependencies:
     "@kurkle/color" "^0.3.0"
-
-"chartjs-plugin-datalabels@^2.2.0":
-  "integrity" "sha512-14ZU30lH7n89oq+A4bWaJPnAG8a7ZTk7dKf48YAzMvJjQtjrgg5Dpk9f+LbjCF6bpx3RAGTeL13IXpKQYyRvlw=="
-  "resolved" "https://registry.npmjs.org/chartjs-plugin-datalabels/-/chartjs-plugin-datalabels-2.2.0.tgz"
-  "version" "2.2.0"
 
 "chokidar@^3.5.1", "chokidar@^3.5.3", "chokidar@>=3.0.0 <4.0.0":
   "integrity" "sha512-Dr3sfKRP6oTcjf2JmUmFJfeVMvXBdegxB0iVQ5eb2V10uFJUCAS8OByZdVAyVb8xXNz3GjjTgj9kLWsZTqE6kw=="
@@ -4428,6 +4423,11 @@
   "version" "1.0.0"
   dependencies:
     "ufo" "^1.0.0"
+
+"vue-chartjs@^5.1.0":
+  "integrity" "sha512-O/VllsyZn1NzRJAYEbpgfbk/N+EB1nCHLsc/ullPNWuU2YRHxgF5SS8OwWc0K2IfVZNMw94Bp6HUqi2svDQzrQ=="
+  "resolved" "https://registry.npmjs.org/vue-chartjs/-/vue-chartjs-5.1.0.tgz"
+  "version" "5.1.0"
 
 "vue-demi@*":
   "integrity" "sha512-IR8HoEEGM65YY3ZJYAjMlKygDQn25D5ajNFNoKh9RSDMQtlzCxtfQjdQgv9jjK+m3377SsJXY8ysq8kLCZL25A=="
